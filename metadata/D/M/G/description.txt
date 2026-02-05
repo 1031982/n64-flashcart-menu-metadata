@@ -1,0 +1,1 @@
+The final entry in the Mario Artist suite, it allows you to make 3D models and objects and make them appear like a diorama, or you can play full open world mode with a pretty robust vehicle creation.

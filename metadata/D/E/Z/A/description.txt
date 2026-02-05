@@ -1,0 +1,1 @@
+Never released before, this dug up expansion of the shoot 'em up maker Dezaemon 3D breaks many limitations of the editor and allows way more complex creations than before, including making 3D models and music! 

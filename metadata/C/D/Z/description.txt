@@ -1,0 +1,5 @@
+Dezaemon 3D (Japanese: デザエモン3D) is a video game and game editor for Nintendo 64. It was released only in Japan in 1998. It is part of the Dezaemon series that started on the Famicom.
+
+The game editor allows players to design their own shooting levels similar to those shown in Star Soldier: Vanishing Earth. The game has many options, such as creating the stage boss or adding a custom soundtrack for each level. It was originally developed alongside an ultimately unreleased accompanying expansion disk title for the 64DD.
+
+It includes two sample games: "SOLID GEAR", and "USAGI-san" (Mr. Rabbit).

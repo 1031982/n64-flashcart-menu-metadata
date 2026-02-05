@@ -1,0 +1,3 @@
+Densha De Go!! 64 is a train simulation game that puts players in the role of a train operator, tasked with navigating various real-life train routes throughout Japan.
+
+The game includes a variety of real-life train routes from across Japan, each with its own unique characteristics and challenges. These routes range from short urban commuter lines to long-distance express trains that travel through scenic countryside.
